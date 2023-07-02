@@ -1,0 +1,14 @@
+{
+  "name": "sanbercodeqa-kelompok6",
+  "version": "1.0.0",
+  "description": "# Nama Anggota - Raka Kuspradika - Hikmatun Nazilah - Yudi Anggriawan - Mika Ning Arume Rahayu",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}
